@@ -97,7 +97,7 @@ h1 {
   border-radius: 0 5px 5px 0;
 }
 
-#map{
+.map{
   position:absolute;
   right:0;
   left:350px;
