@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
     <!-- CSS Imports -->
-    <link rel="stylesheet" href="midterm/style.css" />
-    <link rel="stylesheet" href="midterm/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="leaflet0.css" />
   </head>
 
   <body>
-
+    <!-- Sidebar -->
     <div class="sidebar">
       <div id="intro">
         <h1> FIND A FARMERS MARKET NEAR YOU! </h1>
@@ -18,14 +19,15 @@
       <button id="previous" class="buttons"> Previous </button>
       <button id="next" class="buttons"> Next </button>
     </div>
+  </div>
 
-    <div id="map" style="position:absolute;right:0;left:350px;top:0;bottom:0;height:100%"></div>
+    <div id="map" class="map"></div>
 
 
     <!-- Javascript Imports -->
-    <script src="midterm/midterm.js"></script>
-    <script src="midterm/underscore.js"></script>
-    <script src="midterm/leaflet.js"></script>
-    <script src="midterm/jquery-2.2.0.js"></script>
+    <script src="midterm.js"></script>
+    <script src="underscore0.js"></script>
+    <script src="leaflet0.js"></script>
+    <script src="jquery-20.2.0.js"></script>
   </body>
 </html>

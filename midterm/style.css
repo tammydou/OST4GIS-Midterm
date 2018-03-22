@@ -4,8 +4,8 @@ body{
 
 .sidebar {
   position:absolute;
-  background-color: rgba(0,0,0,0.8);
-  width:20px;
+  background-color: (0,0,0,0.8);
+  width:350px;
   left: 0px;
   top: 0px;
   bottom: 0px;
@@ -13,12 +13,95 @@ body{
   font-family: Arial
 }
 
+h1 {
+  color: #111;
+   font-family: 'Helvetica Neue', sans-serif;
+   font-size: 20px;
+   font-weight: bold;
+   letter-spacing: -1px;
+   line-height: 1;
+   text-align: center;
+}
+
+.main{
+  color: #111;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0 0 24px;
+  text-align: justify;
+  text-justify: inter-word;
+}
 .buttons{
-  display:inline-block;
-  z-index:1;
-  bottom:40px;
-  font-family: Arial;
-  padding:5px 20px;
-  border-style:hidden;
-  radius:5px
+  width:120px;
+  height:40px;
+  background:linear-gradient(to bottom,#4eb5e5 0%,#389ed5 100%);
+  border:none;
+  border-radius:5px;
+  position:relative;
+  border-bottom:4px dolid #2b8bc6;
+  color:#fbfbfb;
+  font-weight:600;
+  font-family:'Open Sans',sans-serif;
+  text-shadow:1px 1px 1px rgba(0,0,0,.4);
+  font-size:15px;
+  text-indent:5px;
+  box-shadow:0px 3px 0px 0px rgba(0,0,0,.2);
+  cursor:pointer;
+  margin-right:20px;
+  margin-top:20px;
+  margin-bottom:20px
+}
+
+#previous {
+  text-align:right;
+  padding-right:12px;
+  box-sizing:border-box
+}
+
+#previous:after {
+  content:"";
+  width:0;
+  height:0:
+  display:block;
+  border-top:20px solid #187dbc;
+  border-bottom: 20px solid #187dbc;
+  border-right: 16px solid transparent;
+  border-left: 20px solid #187dbc;
+  position: absolute;
+  opacity: 0.6;
+  left: 0;
+  top: 0;
+  border-radius: 5px 0 0 5px;
+}
+
+#next {
+  text-align:left;
+  padding-right:12px;
+  box-sizing:border-box
+}
+
+#next:after {
+  content:"";
+  width:0;
+  height:0:
+  display:block;
+  border-top:20px solid #187dbc;
+  border-bottom: 20px solid #187dbc;
+  border-left: 16px solid transparent;
+  border-right: 20px solid #187dbc;
+  position: absolute;
+  opacity: 0.6;
+  right: 0;
+  top: 0;
+  border-radius: 0 5px 5px 0;
+}
+
+#map{
+  position:absolute;
+  right:0;
+  left:350px;
+  top:0;
+  bottom:0;
+  height:100%
 }
