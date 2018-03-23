@@ -17,29 +17,41 @@ var state = {
 };
 
 $(document).ready(function(){
-  var downloadData = $.ajax("https://raw.githubusercontent.com/tammydou/OST4GIS-Midterm/master/midterm/farmersmarket0322.geojson");
+  var downloadData = $.ajax("https://raw.githubusercontent.com/tammydou/OST4GIS-Midterm/master/midterm/farmersmarket_1.geojson");
   downloadData.done(function(data){
     var parseData = JSON.parse(data);
     var geojsonMarkerOptions = {
-      radius: 8,
-      fillColor: "#ff7800",
+      radius: 4,
+      fillColor: "fa4e30",
       color: "#000",
-      weight: 1,
-      opacity: 1,
-      fillOpacity: 0.8
+      weight: 0.1,
+      opacity: 0.3,
+      fillOpacity: 1
     };
 
-    console.log(parseData.features);
-    L.geoJson(parseData.features, {
+    /* console.log(parseData.features); */
+
+    var pageOne = L.geoJson(parseData.features, {
       pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, geojsonMarkerOptions);
       }
     }).addTo(map);
+    
+
+    /*var pageTwo = L.geoJson(parseData.features, {
+      filter: function(feature, layer) {
+          if (feature.properties.FIELD10 === "Y"){
+            return pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+       }
+    ).addTo(map);*/
+
+
   });
+
+
   /*  var makeMarkers = function(markers){
       return _.map(markers, function(mar){return L.circlemarker([mar(Feature.geometry.coordinates))})
     }*/
 
 });
-
-/* _.filter(parseData,function(yr){return "FIELD8" === "Y"})*/
