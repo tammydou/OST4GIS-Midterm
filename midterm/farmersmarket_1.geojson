@@ -1,0 +1,1193 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.12155848,39.97843093 ]
+    },
+    "properties": {
+    "FIELD1":"Greensgrow Farm Stand",
+    "FIELD2":"Bridesburg Kensington Port Richmond",
+    "FIELD3":"2501 E. Cumberland Ave",
+    "FIELD4":"Mon, Tues, Wed, Thurs, Fri, Sat, Sun ",
+    "FIELD5":"Mon-Fri 10am-5pm, Sat-Sun 10am-4pm",
+    "FIELD6":"Late May - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"25, 39, 43, 89"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.13365366,39.98297447 ]
+    },
+    "properties": {
+    "FIELD1":"Norris Square Neighborhood Project",
+    "FIELD2":"Bridesburg Kensington Port Richmond",
+    "FIELD3":"2141 N. Howard St",
+    "FIELD4":"Wed",
+    "FIELD5":"11am-1pm",
+    "FIELD6":"May - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"Applied",
+    "FIELD11":"Applied",
+    "FIELD12":" ",
+    "FIELD13":"3, 39, 89"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.10946534,39.98254957 ]
+    },
+    "properties": {
+    "FIELD1":"Powers Park",
+    "FIELD2":"Bridesburg Kensington Port Richmond",
+    "FIELD3":"Almond and E. Ann St",
+    "FIELD4":"Thurs",
+    "FIELD5":"3-7pm",
+    "FIELD6":"May - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":" ",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"15B, 54, 60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17067028,39.95014093 ]
+    },
+    "properties": {
+    "FIELD1":"Rittenhouse",
+    "FIELD2":"Center City",
+    "FIELD3":"18th and Walnut St.",
+    "FIELD4":"Tues, Sat",
+    "FIELD5":"Tues 10am-2pm, Sat 9am-3pm",
+    "FIELD6":"Tues- June - November; Sat- Year round",
+    "FIELD7":"",
+    "FIELD8":"Y",
+    "FIELD9":"N",
+    "FIELD10":" ",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"9, 17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.18113587,39.94901763 ]
+    },
+    "properties": {
+    "FIELD1":"Schuylkill River Park",
+    "FIELD2":"Center City",
+    "FIELD3":"25th and Spruce St",
+    "FIELD4":"Wed",
+    "FIELD5":"3-7pm",
+    "FIELD6":"May 17th - late October",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":" ",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"7, 12, 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17398597,39.96732323 ]
+    },
+    "properties": {
+    "FIELD1":"Fairmount",
+    "FIELD2":"Center City",
+    "FIELD3":"N. 22nd St. and Fairmount Ave.",
+    "FIELD4":"Thurs",
+    "FIELD5":"3-7pm",
+    "FIELD6":"June 1st - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"7, 32, 33, 48, PHLASH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15706422,39.950016 ]
+    },
+    "properties": {
+    "FIELD1":"Jefferson",
+    "FIELD2":"Center City",
+    "FIELD3":"10th and Chestnut St.",
+    "FIELD4":"Thurs",
+    "FIELD5":"11am-3pm",
+    "FIELD6":"May - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":"McCanns Farm",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"MFL (8th or 11th st stop), 47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17932424,39.94734056 ]
+    },
+    "properties": {
+    "FIELD1":"Fitler Square Park",
+    "FIELD2":"Center City",
+    "FIELD3":"23rd and Pine St.",
+    "FIELD4":"Sat",
+    "FIELD5":"9am-2pm",
+    "FIELD6":"Open year round",
+    "FIELD7":"",
+    "FIELD8":"Y",
+    "FIELD9":"",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"7, 12, 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14545198,39.94216939 ]
+    },
+    "properties": {
+    "FIELD1":"Headhouse",
+    "FIELD2":"Center City",
+    "FIELD3":"2nd and Lombard St.",
+    "FIELD4":"Sun",
+    "FIELD5":"10am-2pm",
+    "FIELD6":"Open year round",
+    "FIELD7":"",
+    "FIELD8":"Y",
+    "FIELD9":"",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"12, 40, 57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1594374,39.95396279 ]
+    },
+    "properties": {
+    "FIELD1":"Reading Terminal Market",
+    "FIELD2":"Center City",
+    "FIELD3":"12th and Arch St",
+    "FIELD4":"Mon, Tues, Wed, Thurs, Fri, Sat, Sun ",
+    "FIELD5":"Mon - Sat 8am - 6pm, Sun 9am - 5pm",
+    "FIELD6":"Year round",
+    "FIELD7":"",
+    "FIELD8":"Y",
+    "FIELD9":"",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"31, 38, 48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1594374,39.95396279 ]
+    },
+    "properties": {
+    "FIELD1":"Fair Food Farmstand",
+    "FIELD2":"Center City",
+    "FIELD3":"12th and Arch St",
+    "FIELD4":"Mon, Tues, Wed, Thurs, Fri, Sat, Sun ",
+    "FIELD5":"Mon - Sat 8am - 6pm, Sun 9am - 5pm",
+    "FIELD6":"Year round",
+    "FIELD7":"",
+    "FIELD8":"Y",
+    "FIELD9":"",
+    "FIELD10":"Y",
+    "FIELD11":" ",
+    "FIELD12":" ",
+    "FIELD13":"31,33,38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14555131,39.95079562 ]
+    },
+    "properties": {
+    "FIELD1":"Christ Church",
+    "FIELD2":"Center city",
+    "FIELD3":"On Church St, between 2nd and 3rd St",
+    "FIELD4":"Wed",
+    "FIELD5":"2-7pm",
+    "FIELD6":"May - Late Fall",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":" ",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"48, 57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14568106,39.95018695 ]
+    },
+    "properties": {
+    "FIELD1":"High Street",
+    "FIELD2":"Center City",
+    "FIELD3":"3rd & Market St",
+    "FIELD4":"Sat",
+    "FIELD5":"10am-2pm",
+    "FIELD6":"Mid/late May-October",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":" ",
+    "FIELD11":" ",
+    "FIELD12":" ",
+    "FIELD13":"MFL (2nd st stop), 17, 33, 48, 57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16677066,40.03473424 ]
+    },
+    "properties": {
+    "FIELD1":"Germantown Kitchen Garden",
+    "FIELD2":"Germantown Chestnut Hill",
+    "FIELD3":"215 E. Penn St",
+    "FIELD4":"Sat",
+    "FIELD5":"9am-1pm",
+    "FIELD6":"May - October",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17100566,40.0272008 ]
+    },
+    "properties": {
+    "FIELD1":"Hansberry Garden and Nature Center",
+    "FIELD2":"Germantown Chestnut Hill",
+    "FIELD3":"5150 Wayne Ave",
+    "FIELD4":"Every other Sun",
+    "FIELD5":"11am-2pm",
+    "FIELD6":"July - Sept",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":" ",
+    "FIELD11":" ",
+    "FIELD12":" ",
+    "FIELD13":"53, X, XH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19258256,40.00744848 ]
+    },
+    "properties": {
+    "FIELD1":"East Falls",
+    "FIELD2":"Germantown Chestnut Hill",
+    "FIELD3":"Kelly Dr & N. Ferry Rd",
+    "FIELD4":"Sat",
+    "FIELD5":"10am-2pm",
+    "FIELD6":"June - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"61"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1967303,40.06742653 ]
+    },
+    "properties": {
+    "FIELD1":"Chestnut Hill Farmers?? Market",
+    "FIELD2":"Germantown Chestnut Hill",
+    "FIELD3":"Winston Rd. btw Germantown Ave. & Mermaid Lane",
+    "FIELD4":"Sat",
+    "FIELD5":"9am ?C 1pm",
+    "FIELD6":"Open year round (Dec-April 10am-12pm)",
+    "FIELD7":"",
+    "FIELD8":"Y",
+    "FIELD9":"N",
+    "FIELD10":" ",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"23, 77, L, Chestnut Hill Line, Chestnut Hill West Line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.09105018,40.03821699 ]
+    },
+    "properties": {
+    "FIELD1":"Oxford Circle",
+    "FIELD2":"Lower Northeast",
+    "FIELD3":"900 East Howell St.",
+    "FIELD4":"Thurs",
+    "FIELD5":"2-6pm",
+    "FIELD6":"June 15th?C November",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"19, 24, 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15780678,39.97868299 ]
+    },
+    "properties": {
+    "FIELD1":"Cecil B. Moore",
+    "FIELD2":"North",
+    "FIELD3":"Cecil B. Moore Ave between Broad and 13th",
+    "FIELD4":"Thurs",
+    "FIELD5":"2-6pm",
+    "FIELD6":"June 1st ?C November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"4, 16, BSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1708494,39.98036145 ]
+    },
+    "properties": {
+    "FIELD1":"N. Philly YMCA- Stephen Klein Center",
+    "FIELD2":"North",
+    "FIELD3":"2144 Cecil B. Moore Ave",
+    "FIELD4":"1st & 3rd Wed",
+    "FIELD5":"11am-3pm",
+    "FIELD6":"May- November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"3,33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14718576,40.01661869 ]
+    },
+    "properties": {
+    "FIELD1":"Hunting Park",
+    "FIELD2":"North",
+    "FIELD3":"W. Hunting Park Ave. and Old York Ave",
+    "FIELD4":"Sat",
+    "FIELD5":"10am-2pm",
+    "FIELD6":"May 27th- November 19th",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"BSS (Hunting Park stop), 4,23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14376043,40.038056 ]
+    },
+    "properties": {
+    "FIELD1":"Park and Tabor",
+    "FIELD2":"North",
+    "FIELD3":"N. Park Ave. and W. Tabor Rd",
+    "FIELD4":"Tues",
+    "FIELD5":"2-6pm",
+    "FIELD6":"May 23rd - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"18, 26, BSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.13835394,39.99186093 ]
+    },
+    "properties": {
+    "FIELD1":"4th and Lehigh",
+    "FIELD2":"North",
+    "FIELD3":"4th St & Lehigh Ave.",
+    "FIELD4":"Tues",
+    "FIELD5":"12-4pm",
+    "FIELD6":"July 11th - Early Sept",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"47, 54"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1498184,39.99054952 ]
+    },
+    "properties": {
+    "FIELD1":"11th & Dauphin",
+    "FIELD2":"North",
+    "FIELD3":"2515 N. 11th St",
+    "FIELD4":"1st Fri & 2nd Sat",
+    "FIELD5":"1st Fri 5-8pm, 2nd Sat 12-4pm",
+    "FIELD6":" ",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":" ",
+    "FIELD12":" ",
+    "FIELD13":"23, 39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.18706216,39.98867451 ]
+    },
+    "properties": {
+    "FIELD1":"33rd & Diamond",
+    "FIELD2":"North",
+    "FIELD3":"33rd & Diamond St",
+    "FIELD4":"Wed",
+    "FIELD5":"2-6pm",
+    "FIELD6":"June 7th -November",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"7, 32, 39, 54, 61"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17764389,40.00557655 ]
+    },
+    "properties": {
+    "FIELD1":"SHARE Nice Roots Farm",
+    "FIELD2":"North",
+    "FIELD3":"2901 W. Hunting Park Ave",
+    "FIELD4":"Tues & Thurs",
+    "FIELD5":"2-4pm",
+    "FIELD6":"May - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17228194,40.00409637 ]
+    },
+    "properties": {
+    "FIELD1":"26th and Allegheny",
+    "FIELD2":"North",
+    "FIELD3":"26th St and Allegheny Ave",
+    "FIELD4":"Wed",
+    "FIELD5":"1-5pm",
+    "FIELD6":"July 12th - early Sept",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"48, 60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0768437,40.02326706 ]
+    },
+    "properties": {
+    "FIELD1":"Frankford Transportation Center",
+    "FIELD2":"Northeast",
+    "FIELD3":"Frankford and Bustleton Ave",
+    "FIELD4":"Tues",
+    "FIELD5":"2-6pm",
+    "FIELD6":"June 6th - Late October",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"MFL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.04076212,40.03681944 ]
+    },
+    "properties": {
+    "FIELD1":"Mayfair",
+    "FIELD2":"Northeast",
+    "FIELD3":"3500 block of Ryan Ave",
+    "FIELD4":"1st & 3rd Thurs",
+    "FIELD5":"5-9pm",
+    "FIELD6":"June - October",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":" ",
+    "FIELD11":" ",
+    "FIELD12":" ",
+    "FIELD13":"66, 70"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21957111,40.0490191 ]
+    },
+    "properties": {
+    "FIELD1":"Henry Got Crops!",
+    "FIELD2":"Northwest",
+    "FIELD3":"7095 Henry Ave",
+    "FIELD4":"Tues, Fri",
+    "FIELD5":"Tues & Fri 12-7pm",
+    "FIELD6":"May 13th - October",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19591535,40.04638662 ]
+    },
+    "properties": {
+    "FIELD1":"Mt. Airy",
+    "FIELD2":"Northwest",
+    "FIELD3":"Carpenter Lane and Greene St.",
+    "FIELD4":"Thurs",
+    "FIELD5":"3-7 pm",
+    "FIELD6":"June 29th - August 31st",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":" ",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"H"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16853704,40.03197711 ]
+    },
+    "properties": {
+    "FIELD1":"Gumblethorpe House",
+    "FIELD2":"Northwest",
+    "FIELD3":"5267 Germantown Ave",
+    "FIELD4":"Sat",
+    "FIELD5":"9:30am-1:30pm",
+    "FIELD6":"May - Sept",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.153516,40.06429505 ]
+    },
+    "properties": {
+    "FIELD1":"West Oak Lane",
+    "FIELD2":"Olney Oak Lane",
+    "FIELD3":"Ogontz Ave and Walnut Lane",
+    "FIELD4":"Tues",
+    "FIELD5":"2-6pm",
+    "FIELD6":"July 11th - November 22nd",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"6, XH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22129589,40.03752814 ]
+    },
+    "properties": {
+    "FIELD1":"Gorgas Park",
+    "FIELD2":"Roxborough Manayunk",
+    "FIELD3":"Ridge Ave and Acorn St.",
+    "FIELD4":"Fri",
+    "FIELD5":"3-7pm",
+    "FIELD6":"May  - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22083224,40.02598747 ]
+    },
+    "properties": {
+    "FIELD1":"Pretzel Park",
+    "FIELD2":"Roxborough Manayunk",
+    "FIELD3":"4300 Silverwood St",
+    "FIELD4":"Sat",
+    "FIELD5":"10am-2pm",
+    "FIELD6":"May ?C November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":" ",
+    "FIELD11":" ",
+    "FIELD12":" ",
+    "FIELD13":"27, 61"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15974321,39.9230931 ]
+    },
+    "properties": {
+    "FIELD1":"Novick Family Urban Farm Stand",
+    "FIELD2":"South",
+    "FIELD3":"8th St and Snyder Ave",
+    "FIELD4":"Wed",
+    "FIELD5":"2-6pm",
+    "FIELD6":" ",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":" "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.18142207,39.93217094 ]
+    },
+    "properties": {
+    "FIELD1":"22nd & Tasker",
+    "FIELD2":"South",
+    "FIELD3":"22nd and Tasker St.",
+    "FIELD4":"Wed",
+    "FIELD5":"2-6pm",
+    "FIELD6":"July 12th- early Sept",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":" "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16962994,39.92438133 ]
+    },
+    "properties": {
+    "FIELD1":"Broad and Snyder",
+    "FIELD2":"South",
+    "FIELD3":"Broad and Snyder St.",
+    "FIELD4":"Tues",
+    "FIELD5":"2-6pm",
+    "FIELD6":"June  13th ?C Late September",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"BSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16308925,39.92980981 ]
+    },
+    "properties": {
+    "FIELD1":"Fountain",
+    "FIELD2":"South",
+    "FIELD3":"East Passyunk Ave at 11th and Tasker St.",
+    "FIELD4":"Wed",
+    "FIELD5":"3-7pm",
+    "FIELD6":"May - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":" ",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"23, 29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.15116237,39.92697131 ]
+    },
+    "properties": {
+    "FIELD1":"Dickinson Square",
+    "FIELD2":"South",
+    "FIELD3":"East Moyamensing Ave. and Morris St.",
+    "FIELD4":"Sun",
+    "FIELD5":"10am-2pm",
+    "FIELD6":"May - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"2,29,47,57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21607633,39.93275162 ]
+    },
+    "properties": {
+    "FIELD1":"Sankofa Community Farm at Bartram??s Garden",
+    "FIELD2":"Southwest",
+    "FIELD3":"54th & Lindbergh Blvd",
+    "FIELD4":"Thurs",
+    "FIELD5":"3:30-6:30pm",
+    "FIELD6":"June-November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"36 trolley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22853606,39.93574182 ]
+    },
+    "properties": {
+    "FIELD1":"58th & Chester",
+    "FIELD2":"Southwest",
+    "FIELD3":"58th St and Chester Ave",
+    "FIELD4":"Wed",
+    "FIELD5":"2-6pm",
+    "FIELD6":"July 12th -November",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"13 trolley, G"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22459303,39.96490511 ]
+    },
+    "properties": {
+    "FIELD1":"52nd & Haverford",
+    "FIELD2":"West",
+    "FIELD3":"52nd St and Haverford Ave.",
+    "FIELD4":"Wed",
+    "FIELD5":"12-4pm",
+    "FIELD6":"July 12th ?C November",
+    "FIELD7":"Y",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"30, 52"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.20926195,39.94955082 ]
+    },
+    "properties": {
+    "FIELD1":"Clark Park",
+    "FIELD2":"West",
+    "FIELD3":"43rd St. and Baltimore Ave.",
+    "FIELD4":"Thurs & Sat",
+    "FIELD5":"Thurs 3-7pm, Sat 10am-2pm",
+    "FIELD6":"Thurs open June 1st ?C November, Sat open year round",
+    "FIELD7":"Y",
+    "FIELD8":"Y",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"13, 30, 34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22633095,39.94778425 ]
+    },
+    "properties": {
+    "FIELD1":"Greensgrow West",
+    "FIELD2":"West",
+    "FIELD3":"5123 Baltimore Ave",
+    "FIELD4":"Mon, Thurs, Fri, Sat, Sun",
+    "FIELD5":"Mon & Thurs & Fri 10am-6pm, Sat & Sun 10am-4pm",
+    "FIELD6":" ",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":" ",
+    "FIELD12":" ",
+    "FIELD13":" "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.25400244,39.98831396 ]
+    },
+    "properties": {
+    "FIELD1":"Overbrook",
+    "FIELD2":"West",
+    "FIELD3":"Lancaster & City Ave",
+    "FIELD4":"Sat",
+    "FIELD5":"9am-1pm",
+    "FIELD6":"May 20th?C November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"65, 105, G, R5 Paoli-Thorndale Line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21667923,39.99736112 ]
+    },
+    "properties": {
+    "FIELD1":"Heritage Farm",
+    "FIELD2":"West",
+    "FIELD3":"4300 Monument Rd",
+    "FIELD4":"Thurs",
+    "FIELD5":"3:30-5:30pm",
+    "FIELD6":"May 18th - September",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"38, 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19478911,39.95315133 ]
+    },
+    "properties": {
+    "FIELD1":"University Square",
+    "FIELD2":"West",
+    "FIELD3":"36th and Walnut St.",
+    "FIELD4":"Wed",
+    "FIELD5":"10am-5pm",
+    "FIELD6":"March - end of November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"N",
+    "FIELD10":" ",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19574105,39.95967409 ]
+    },
+    "properties": {
+    "FIELD1":"Lancaster Ave",
+    "FIELD2":"West",
+    "FIELD3":"Lancaster Ave and Powelton St.",
+    "FIELD4":"Sat",
+    "FIELD5":"10am-4pm",
+    "FIELD6":"May-end of Oct",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.20981104,39.97353102 ]
+    },
+    "properties": {
+    "FIELD1":"42nd and Girard",
+    "FIELD2":"West",
+    "FIELD3":"4159 W. Girard Ave",
+    "FIELD4":"2nd Fri",
+    "FIELD5":"1-5pm",
+    "FIELD6":"June- October",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"15 trolley, 40 bus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22451541,39.95838766 ]
+    },
+    "properties": {
+    "FIELD1":"W. Philly YMCA Market",
+    "FIELD2":"West",
+    "FIELD3":"5120 Chestnut St",
+    "FIELD4":"1st & 3rd Fri",
+    "FIELD5":"10am-2pm",
+    "FIELD6":"May - November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":" "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22689788,39.96938581 ]
+    },
+    "properties": {
+    "FIELD1":"Neighborhood Foods Farm",
+    "FIELD2":"West",
+    "FIELD3":"608 N. 53rd St",
+    "FIELD4":"Sat",
+    "FIELD5":"10am-2pm",
+    "FIELD6":"May ?C November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"52"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21351782,39.9586036 ]
+    },
+    "properties": {
+    "FIELD1":"Walnut Hill",
+    "FIELD2":"West",
+    "FIELD3":"4601 Market St",
+    "FIELD4":"Thurs",
+    "FIELD5":"3-7pm",
+    "FIELD6":"May- November",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"MFL (46th st stop), 30, 31, 64"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.21855917,39.96613739 ]
+    },
+    "properties": {
+    "FIELD1":"Mill Creek Farm",
+    "FIELD2":"West",
+    "FIELD3":"4901 Brown St",
+    "FIELD4":"Sat",
+    "FIELD5":"11am-2pm",
+    "FIELD6":"June 10th- December",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"Y",
+    "FIELD10":"Y",
+    "FIELD11":"Y",
+    "FIELD12":" ",
+    "FIELD13":"30, 52, 64"
+    }
+  }
+]
+}
