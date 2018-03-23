@@ -36,7 +36,7 @@ $(document).ready(function(){
         return L.circleMarker(latlng, geojsonMarkerOptions);
       }
     }).addTo(map);
-    
+
 
     /*var pageTwo = L.geoJson(parseData.features, {
       filter: function(feature, layer) {
