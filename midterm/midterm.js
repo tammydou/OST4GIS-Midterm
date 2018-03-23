@@ -17,9 +17,10 @@ var state = {
 };
 
 $(document).ready(function(){
-  var downloadData = $.ajax("https://raw.githubusercontent.com/tammydou/OST4GIS-Midterm/master/midterm/farmersmarket_1.geojson");
+  var downloadData = $.ajax("https://raw.githubusercontent.com/tammydou/OST4GIS-Midterm/master/midterm/0323.geojson");
   downloadData.done(function(data){
     var parseData = JSON.parse(data);
+
     var geojsonMarkerOptions = {
       radius: 4,
       fillColor: "fa4e30",
@@ -36,6 +37,11 @@ $(document).ready(function(){
         return L.circleMarker(latlng, geojsonMarkerOptions);
       }
     }).addTo(map);
+
+    var popup = L.popup()
+    .setLatLng(latlng)
+    .setContent("I am a standalone popup.")
+    .openOn(map);
 
 
     /*var pageTwo = L.geoJson(parseData.features, {
